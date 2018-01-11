@@ -5,7 +5,7 @@ A sudoku game written in Java Language. Sucoder is different from the other Sudo
 Note:<br>
 You have to install Java 1.8 JRE and Chalkduster.ttf font file.
 
-[Download Here] (https://drive.google.com/open?id=0B9wRM7mwf-UfMWZlRm85aUR4S0E)
+[Download Here](https://drive.google.com/open?id=0B9wRM7mwf-UfMWZlRm85aUR4S0E)
 
 CodeBenders - 2014
 --------------------
