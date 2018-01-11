@@ -6,6 +6,7 @@ Note:<br>
 You have to install Java 1.8 JRE and Chalkduster.ttf font file.
 
 [Download Here](https://drive.google.com/open?id=0B9wRM7mwf-UfMWZlRm85aUR4S0E)
+[Download Here (Without Music)](https://drive.google.com/open?id=19Er84L0wrqE3WwY8v3309G0KUFbqH2OB)
 
 CodeBenders - 2014
 --------------------
